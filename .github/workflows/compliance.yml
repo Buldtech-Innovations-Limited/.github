@@ -33,4 +33,4 @@ jobs:
         with:
           repo-token: ${{ secrets.GITHUB_TOKEN }}
           pr-message: |
-            Congrats on making your first Pull Request and thanks for taking the time to improve Medijobs! ❤️🎉🍕
+            Congrats on making your first Pull Request and thanks for taking the time to improve Buldtech Innovations Limited! ❤️🎉🍕
